@@ -5,7 +5,7 @@ Uygulama, kullanıcılara **ürün ekleme, silme, güncelleme, azalan-artan şek
 
 ---
 
-## 🚀 Kullanılan Teknolojiler  
+##  Kullanılan Teknolojiler  
 
 - **React 19**  
 - **Redux Toolkit**  
@@ -16,7 +16,7 @@ Uygulama, kullanıcılara **ürün ekleme, silme, güncelleme, azalan-artan şek
 
 ---
 
-## 🎯 Özellikler  
+## Özellikler  
 
 ✅ **Ürün Ekleme:** Yeni bir ürün ekleyebilirsiniz.  
 ✅ **Ürün Silme:** Listeden seçilen ürünü silebilirsiniz.  
@@ -32,7 +32,7 @@ It allows users to **add, delete, update, sort (ascending/descending), and searc
 
 ---
 
-## 🚀 Technologies Used  
+## Technologies Used  
 
 - **React 19**  
 - **Redux Toolkit**  
@@ -43,7 +43,7 @@ It allows users to **add, delete, update, sort (ascending/descending), and searc
 
 ---
 
-## 🎯 Features  
+## Features  
 
 ✅ **Add Product:** You can add a new product.  
 ✅ **Delete Product:** You can delete a selected product from the list.  
