@@ -1,11 +1,11 @@
-# React Redux Toolkit CRUD Uygulaması
+## React Redux Toolkit CRUD Uygulaması
 
 Bu proje, **React** ve **Redux Toolkit** kullanılarak geliştirilmiş bir **CRUD** uygulamasıdır.  
 Uygulama, kullanıcılara **ürün ekleme, silme, güncelleme, azalan-artan şekilde sıralama ve arama** gibi işlemleri gerçekleştirme imkânı sunar.
 
 ---
 
-##  Kullanılan Teknolojiler  
+###  Kullanılan Teknolojiler  
 
 - **React 19**  
 - **Redux Toolkit**  
@@ -16,7 +16,7 @@ Uygulama, kullanıcılara **ürün ekleme, silme, güncelleme, azalan-artan şek
 
 ---
 
-## Özellikler  
+### Özellikler  
 
 ✅ **Ürün Ekleme:** Yeni bir ürün ekleyebilirsiniz.  
 ✅ **Ürün Silme:** Listeden seçilen ürünü silebilirsiniz.  
@@ -25,14 +25,14 @@ Uygulama, kullanıcılara **ürün ekleme, silme, güncelleme, azalan-artan şek
 ✅ **Arama:** Ürünleri **isme göre filtreleyerek** arama yapabilirsiniz.  
 
 
-# React Redux Toolkit CRUD Application
+## React Redux Toolkit CRUD Application
 
 This project is a **CRUD application** developed using **React** and **Redux Toolkit**.  
 It allows users to **add, delete, update, sort (ascending/descending), and search for products**.
 
 ---
 
-## Technologies Used  
+### Technologies Used  
 
 - **React 19**  
 - **Redux Toolkit**  
@@ -43,7 +43,7 @@ It allows users to **add, delete, update, sort (ascending/descending), and searc
 
 ---
 
-## Features  
+### Features  
 
 ✅ **Add Product:** You can add a new product.  
 ✅ **Delete Product:** You can delete a selected product from the list.  
